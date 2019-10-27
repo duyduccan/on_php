@@ -15,7 +15,7 @@
     $obj->sayHello('VietNamese');
     $obj->sayHello('Chinese');
     $obj->sayHello('French');
-    // xóa đối tượng khi không dùng đến
+    // xóa đối tượng khi không dùng đến nữa
     unset($obj);
     ?>
 </body>
